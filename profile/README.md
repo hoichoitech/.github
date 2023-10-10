@@ -33,3 +33,5 @@ If you're passionate about technology and entertainment, we'd love to have you o
 
 Proudly crafted in Kolkata with ❤️  
 
+[![An image of @hoichoidev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hoichoidev)](https://holopin.io/@hoichoidev)
+
