@@ -29,6 +29,9 @@ Our team employs a diverse range of programming languages, infrastructure, and t
 ## Join Our Journey
 If you're passionate about technology and entertainment, we'd love to have you on board. [Become a part of our team](https://join.hoichoi.tech).
 
+## We love Opensource 
+If you're passionate about Free and Opensource software, we'd love to collaborate. [Opensource @ hoichoi ](https://github.com/hoichoi-opensource)
+
 ---
 
 Proudly crafted in Kolkata with ❤️  
